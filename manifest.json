@@ -34,7 +34,7 @@
     }
   ],
   "lang": "en-US",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "minimal-ui",
   "background_color": "white",
   "theme_color": "white"
