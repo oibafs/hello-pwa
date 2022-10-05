@@ -1,4 +1,4 @@
-var cacheName = 'hello-pwa';
+var cacheName = 'jira';
 var filesToCache = [
   './',
   './index.html',
